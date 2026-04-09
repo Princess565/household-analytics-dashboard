@@ -39,8 +39,4 @@ The dashboard explores:
 - `Household_dashboard.pdf` – original dashboard export
 - `household_dashboard_report.pdf` – derived narrative report
 
-## Portfolio Description
-Developed an interactive household analytics dashboard to analyze income, tax behavior, poverty distribution, and expenditure patterns across multiple countries. Designed KPI cards and comparative visuals to communicate economic trends and locality-based spending differences for decision-oriented analysis.
 
-## Suggested Featured Title
-**Household Income and Expenditure Analysis Dashboard**
